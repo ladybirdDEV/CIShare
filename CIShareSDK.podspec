@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CIShareSDK'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A short description of CIShare.'
 
 # This description is used to generate tags and improve search results.
@@ -34,7 +34,6 @@ TODO: Add long description of the pod here.
   s.user_target_xcconfig = {
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
-  s.static_framework = true
   
   s.vendored_frameworks = "CIShare/CIShareSDK.framework"
   
