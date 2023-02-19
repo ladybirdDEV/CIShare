@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <CIShareConst.h>
+#import "CIShareConst.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

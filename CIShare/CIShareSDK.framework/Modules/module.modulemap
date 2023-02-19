@@ -1,6 +1,0 @@
-framework module CIShareSDK {
-  umbrella header "CIShareSDK.h"
-
-  export *
-  module * { export * }
-}

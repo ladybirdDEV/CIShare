@@ -4,29 +4,40 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/CIShare.h</key>
+		<data>
+		eiUZk5mXZ6psDdWP2cQ/7b2t38A=
+		</data>
 		<key>Headers/CIShareConst.h</key>
 		<data>
 		kVOy0JIHLrJdL+u8DxOI7EYJtpY=
 		</data>
-		<key>Headers/CIShareSDK.h</key>
-		<data>
-		QYXFZgQjGkc1zOPn9xlWDiovLL4=
-		</data>
 		<key>Headers/CIShareTool.h</key>
 		<data>
-		phei0Q0oqD31AOlm2Iolkr7n4NA=
+		/RgBUbOhiu1rCr6JMjFVn5f9zeA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Aj/pQ90t0phmrKnbbVY2QOA+1wM=
+		tMJxy1S1rUjhgSw7IsZp50QxjaY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		cno8RBxcryrIqr0fCAvY/IxA7VE=
+		ruRTYs0MeB1OyKp2FeB1vvjXRXs=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/CIShare.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eiUZk5mXZ6psDdWP2cQ/7b2t38A=
+			</data>
+			<key>hash2</key>
+			<data>
+			HLOtiYjTApDZ4TKLBnVAEQ5U+YkEKo+UwLj8/CZ7rX8=
+			</data>
+		</dict>
 		<key>Headers/CIShareConst.h</key>
 		<dict>
 			<key>hash</key>
@@ -38,37 +49,26 @@
 			knGQvDNm9n2TUu2HxkDxF7qfo6iY5OPd7Tx9h79r2S8=
 			</data>
 		</dict>
-		<key>Headers/CIShareSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QYXFZgQjGkc1zOPn9xlWDiovLL4=
-			</data>
-			<key>hash2</key>
-			<data>
-			kC7GaTAxRGAowjEzZxaOYl6KfF1P7VxlSeOXRJpN1AY=
-			</data>
-		</dict>
 		<key>Headers/CIShareTool.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			phei0Q0oqD31AOlm2Iolkr7n4NA=
+			/RgBUbOhiu1rCr6JMjFVn5f9zeA=
 			</data>
 			<key>hash2</key>
 			<data>
-			gC5C1SztlWOcHjnuHHIR+C69s8PsP3GjiDPYyMe0B1M=
+			/zfOFLcB7jG+xJEhM6lA5YRK7VVdUwt6XA60QEUF+FQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cno8RBxcryrIqr0fCAvY/IxA7VE=
+			ruRTYs0MeB1OyKp2FeB1vvjXRXs=
 			</data>
 			<key>hash2</key>
 			<data>
-			UJMvD5qcEr9VYJfqhFmLCKbRZgWVKmC3r89Mca3gW3w=
+			M1FAGBX731c8VswpI96c8zchlUhqH/ZpwKbuNFg8XCU=
 			</data>
 		</dict>
 	</dict>
